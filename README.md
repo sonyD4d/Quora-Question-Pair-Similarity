@@ -22,6 +22,7 @@ COLUMNS
     - qid1/qid2 : question id of question1/question2 
     - question1/question2 : actual question in string 
     - is_duplicate : is question1 is duplicate of question2? (1:YES/0:NO) 
+    
 ![image](https://user-images.githubusercontent.com/20265851/132982876-67501c08-bd1f-45fe-9fd0-dcd22daf8d1a.png)
 
 ## Basic Feature Addition 
@@ -36,6 +37,7 @@ COLUMNS
  - ____word_share____ = (word_common)/(word_Total)
  - ____freq_q1+freq_q2____ = sum total of frequency of qid1 and qid2 
  - ____freq_q1-freq_q2____ = absolute difference of frequency of qid1 and qid2 
+ - 
 ![image](https://user-images.githubusercontent.com/20265851/132982873-4d122ae6-1bfc-4743-b725-7c8a7cf87a40.png)
 
 ## Advanced Feature Addition 
@@ -54,6 +56,7 @@ COLUMNS
 - __token_sort_ratio__ 
 - __token_set_ratio__ : 
 - __longest_substr_ratio__ :  Ratio of length longest common substring to min lenghth of token count of Q1 and Q2
+
 ![image](https://user-images.githubusercontent.com/20265851/132982867-37ab81c6-6532-47fb-9bed-3369df85935c.png)
 
 ## Vector representation : idf-GLOVE
@@ -65,7 +68,8 @@ COLUMNS
     Advanced feature extraction 
     +
     Vector representation
-   ![image](https://user-images.githubusercontent.com/20265851/132982864-b83cd219-197e-4b8c-ba8e-bdc7c20fb350.png)
+    
+![image](https://user-images.githubusercontent.com/20265851/132982864-b83cd219-197e-4b8c-ba8e-bdc7c20fb350.png)
 
 ## Machine Learning 
 
