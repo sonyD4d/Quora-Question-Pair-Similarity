@@ -2,7 +2,7 @@
 
 ## Description 
 
-![image](https://user-images.githubusercontent.com/20265851/132982880-34ee5dc5-c358-4105-ae02-2eca800acb47.png)
+<img align="left" src="https://user-images.githubusercontent.com/20265851/132982880-34ee5dc5-c358-4105-ae02-2eca800acb47.png" height="222px"/>
 
 Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
 
